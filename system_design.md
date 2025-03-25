@@ -216,9 +216,7 @@ To facilitate filtering and to make it easier for the user to identify what they
 
 * **Programs ( Disease data collection forms)**
 
-  Tracker programs will be created for Measles and Rubella and another for Polio. This is the type of Program in DHIS2 that provides follow up and to track the entity defined, Cases
-
-  Another option that PAHO should consider is to use the approach included in the Standard Package of Case Based Surveillance ([Design \- DHIS2 Documentation](https://docs.dhis2.org/en/topics/metadata/disease-surveillance/vpd-case-based-tracker/design.html)) , where a single program is designed and that includes all possible infection diseases.  This option is given  based on the UiO Global Implementation Team recommendations. 
+  Tracker programs will be created for Measles and Rubella, and another for Polio. This is the type of Program in DHIS2 that provides follow up and to track the entity defined, Cases
 
   A list of main characteristics by alternatives presented in this document, has been included at the end of this section.  
 
@@ -328,7 +326,7 @@ Clinical data and Vaccination
 ### Program rules: Measles 
 
 The program rules were created according to the requirements document delivered by the VPD team. The original document is the following:  
-[https://docs.google.com/spreadsheets/d/1nunzu3e2lJZxqqMTqYhjmyrHU7k4-mU-/edit?gid=1709409689\#gid=1709409689](https://docs.google.com/spreadsheets/d/1nunzu3e2lJZxqqMTqYhjmyrHU7k4-mU-/edit?gid=1709409689#gid=1709409689)
+[/business_rules_measles.md)  
 
 The rules created can be found in the following document:  
 https://docs.google.com/spreadsheets/d/15MJJM1s46rE-OcIfguYJuLnMzTOW-kR\_/edit?gid=1679012049\#gid=1679012049 
